@@ -28,4 +28,5 @@ A interactive quiz app built with HTML, CSS, and JavaScript.
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
 ** Screenshot **
+
 ![Screenshot 2024-06-09 073945](https://github.com/ElhacenMahmoud/Quiz_app/assets/156904270/192ceb11-4712-468f-9d42-e8ad6120c3fe)
